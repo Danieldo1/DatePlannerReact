@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.10d1da89.js",
-    "index.html": "/index.html",
-    "main.10d1da89.js.map": "/static/js/main.10d1da89.js.map"
+    "main.js": "/DatePlannerReact/static/js/main.10d1da89.js",
+    "index.html": "/DatePlannerReact/index.html",
+    "main.10d1da89.js.map": "/DatePlannerReact/static/js/main.10d1da89.js.map"
   },
   "entrypoints": [
     "static/js/main.10d1da89.js"
